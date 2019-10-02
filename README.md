@@ -1,2 +1,2 @@
-# swapprg
-swaping of two numbers without using third variable
+# Swap Program
+swapping of two numbers without using third variable
